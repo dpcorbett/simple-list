@@ -2,4 +2,4 @@
 
 A simple contiguous list written in C. It comes with a cl test driver.  &#9786;
 
-#### &copy; dpc 10/Aug/2001
+#### &copy; [current year] dpc 10/Aug/2001
