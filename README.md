@@ -1,4 +1,4 @@
-#simple-list
+# simple-list
 
 A simple contiguous list in C.
 
