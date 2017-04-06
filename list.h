@@ -2,8 +2,7 @@
 #define MAXLIST 10
 typedef char ListEntry;
 typedef int Position;
-typedef struct list
-{
+typedef struct list {
     int count;
     ListEntry entry[MAXLIST];
 } List;

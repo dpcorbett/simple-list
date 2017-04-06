@@ -1,4 +1,4 @@
 typedef enum boolean_tag { FALSE, TRUE } Boolean;
-// Prototypes.
+// Function Prototypes.
 void Error(char *);
 void Warning(char *);
