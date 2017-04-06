@@ -1,11 +1,11 @@
----
-title: "Habits"
-author: John Doe
-date: March 22, 2005
-output: md_document
----
 # simple-list
 
 A simple contiguous list written in C. It comes with a cl test driver.  &#9786;
+---
+title: "simple-list"
+author: Dave Corbett
+date: August 10, 200
+output: md_document
+---
 
-#### &copy; {{TODAY}} dpc 10/Aug/2001
+#### &copy; dpc
